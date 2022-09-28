@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1091534361253",
+    "project_id": "chat-bcd10",
+    "storage_bucket": "chat-bcd10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091534361253:android:c7c5ae73b7d7d8c814734c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091534361253-bdi9lp56jd4778jbqdbfjqa25o315ii0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDME-NLXovISSGnOhfdPq827kjSuYNBAWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091534361253-bdi9lp56jd4778jbqdbfjqa25o315ii0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091534361253-c6e9lgodtqbs2734bv5sb2j6svh08qnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholarChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091534361253:android:b01ec584befd243c14734c",
+        "android_client_info": {
+          "package_name": "com.example.scholar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091534361253-bdi9lp56jd4778jbqdbfjqa25o315ii0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDME-NLXovISSGnOhfdPq827kjSuYNBAWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091534361253-bdi9lp56jd4778jbqdbfjqa25o315ii0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091534361253-c6e9lgodtqbs2734bv5sb2j6svh08qnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholarChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
